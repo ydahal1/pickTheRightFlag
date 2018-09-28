@@ -1,0 +1,8 @@
+.navbar:not(.navbar-header){
+    color: red;
+    text-align: right;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    font-size: 20px;
+}
